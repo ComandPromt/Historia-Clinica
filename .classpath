@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="librerias/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="librerias/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="librerias/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="librerias/commons-javaflow-20060411.jar"/>
+	<classpathentry kind="lib" path="librerias/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="librerias/groovy-all-1.7.5.jar"/>
+	<classpathentry kind="lib" path="librerias/iText-2.1.7.jar"/>
+	<classpathentry kind="lib" path="librerias/jasperreports-4.7.1.jar"/>
+	<classpathentry kind="lib" path="librerias/jasperreports-applet-4.7.1.jar"/>
+	<classpathentry kind="lib" path="librerias/jasperreports-fonts-4.7.1.jar"/>
+	<classpathentry kind="lib" path="librerias/jasperreports-javaflow-4.7.1.jar"/>
+	<classpathentry kind="lib" path="librerias/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="librerias/png-encoder-1.5.jar"/>
+	<classpathentry kind="lib" path="librerias/poi-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="librerias/RojeruSan.full.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
